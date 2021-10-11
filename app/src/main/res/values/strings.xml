@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">uee</string>
+    <string name="home">home</string>
+    <string name="categories">categories</string>
+    <string name="customize">customize</string>
+    <string name="cart">cart</string>
+    <string name="checkout">checkout</string>
+    <string name="add_cake">Add a Cake</string>
+    <string name="cake_name">Name</string>
+    <string name="price">Price</string>
+    <string name="description">Description</string>
+    <string name="Quantity">Quantity</string>
+    <string name="ADD">Add Cake</string>
+    <string name="upload_image">Upload an Image</string>
+    <string name="title_activity_nav_drawer">NavDrawerActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+
+    <string-array name="weights">
+        <item>1KG</item>
+        <item>2KG</item>
+        <item>3KG</item>
+        <item>4KG</item>
+        <item>5KG</item>
+        <item>1KG [Eggless]</item>
+        <item>2KG [Eggless]</item>
+        <item>3KG [Eggless]</item>
+    </string-array>
+</resources>
