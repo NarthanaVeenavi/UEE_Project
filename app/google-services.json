@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "523844883025",
+    "project_id": "ueeproject-fbc93",
+    "storage_bucket": "ueeproject-fbc93.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:523844883025:android:4af5c8ffe6727b08939e70",
+        "android_client_info": {
+          "package_name": "com.example.uee"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "523844883025-m68t8kd4i8bg0p949cu1t2v7l2d8cn7a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.uee",
+            "certificate_hash": "d24a35acb1f455a52793f0df7ed4ee3077381526"
+          }
+        },
+        {
+          "client_id": "523844883025-hajgqoskeod3bodp0k5enumassv1s82f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHq5KZztivvdCCYDCBX52kvVftwfGSH8o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "523844883025-hajgqoskeod3bodp0k5enumassv1s82f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
